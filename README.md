@@ -20,3 +20,4 @@ Significantly shorten and simplify the program code, thereby improving the effic
 This is for 3000 lines of data, it will have a bigger difference when we analyze a larger data set.  
 **How do these pros and cons apply to refactoring the original VBA script?**
 To apply refactoring script, make the analysis more efficient. But the original script, with 2 variables(i&j) and For-loop is easier for beginners to understand the logic.
+The refactoring version of the code is more complecated. We need to define the range for the arrays, in this case, we need to let the code know we are running the loop for 12 stocks. Second is to mind for assing the variable to the for-loop, in this case, the tickerIndex.
