@@ -15,7 +15,7 @@ The suggestion for the client is to either relocate their investment to differen
 ## Summary: 
 **What are the advantages or disadvantages of refactoring code?**
 By using an array, a uniform array name and different subscripts can be used to determine the only element in the array. 
-Significantly shorten and simplify the program code, thereby improving the efficiency of the application. The time for process the analysis went down from 0.5 seconds to 0.18 seconds. 
+Significantly shorten and simplify the program code, thereby improving the efficiency of the application. The time for process the analysis went down from 0.5 seconds to 0.125 seconds. 
 ![VBA_Challenge_2018](https://github.com/Sirius0531/stocks-analysis/blob/main/Resources/VBA_Challenge_Asssigned_2018.png)
 This is for 3000 lines of data, it will have a bigger difference when we analyze a larger data set.  
 **How do these pros and cons apply to refactoring the original VBA script?**
